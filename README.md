@@ -1,15 +1,33 @@
-# WSAA-Courseware
+# WSAA-Coursework
 
-Courseware for the  
+Coursework for the Web Services and Applications module, part of the HDip in Data Analytics at ATU.
 
-This repository is about a Web services and Applications module, part of the HDip in Data Analytics ATU.
+## Overview
 
-This repository will introduce various means of retrieving data from external sources (for example CSO, weather servers, stock information). Will look at the formats that data can come in (XML, JSON,CSV) and how you can retrieve (through an API) and process that data, using JavaScript and Python.
+This repository contains assignments and code examples for the Web Services and Applications module. It introduces various means of retrieving data from external sources (for example CSO, weather servers, stock information). 
 
-Will also explore how can make your own data available to the outside world by creating your own API (Application Programmer's Interface) using the python module Flask.
+The coursework covers:
+- Data formats: XML, JSON, CSV
+- Data retrieval through APIs using JavaScript and Python
+- Creating your own APIs using the Python Flask module
 
-by = Ianara Fernandes
+## Repository Structure
 
-References
+- `assignments/` - Contains assignment solutions
+- `code/` - Contains code examples and exercises
+- `cso.json` - CSO data file
 
-*
+## Technologies Used
+
+- Python
+- JavaScript
+- Flask
+- JSON/XML/CSV data formats
+
+## Author
+
+**Ianara Fernandes**
+
+## References
+
+*To be updated as the course progresses*
